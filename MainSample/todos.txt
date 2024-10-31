@@ -1,0 +1,4 @@
+make coffee
+clean the bag
+clean the room
+test
